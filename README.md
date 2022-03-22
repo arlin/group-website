@@ -1,2 +1,5 @@
 # group-website
-a testbed for making a web site and for CI
+
+testbed for static pages with Jekyll
+
+then CI and PlantUML
